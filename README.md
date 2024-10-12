@@ -10,7 +10,6 @@ I have been passionate about technology since an early age and have a constant e
 
 ## 🌟 Featured Projects
 - [Game Group Website](https://github.com/AlyssonKe/Broken-Clock-SITE): My first website, created in Next.js for my Roblox game group.
-- [My Roblox Portfolio](https://github.com/AlyssonKe/My-Roblox-Portifolio): My Roblox portfolio created in Next.js.
 
 ## 🤝 Contributions
 - [College Bootcamp Project](https://github.com/geovanards/bootcamp): Contribution to an academic project for my bootcamp course.
