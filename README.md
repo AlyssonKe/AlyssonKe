@@ -9,7 +9,7 @@ I have been passionate about technology since an early age and have a constant e
 ![Profile visits](https://komarev.com/ghpvc/?username=AlyssonKe)
 
 ## 🌟 Featured Projects
-- [Game Group Website](https://www.brokenclock.fun/): My first website, created in Next.js for my Roblox game group.
+- [Game Group Website](https://github.com/AlyssonKe/Broken-Clock-SITE): My first website, created in Next.js for my Roblox game group.
 - [My Roblox Portfolio](https://github.com/AlyssonKe/My-Roblox-Portifolio): My Roblox portfolio created in Next.js.
 
 ## 🤝 Contributions
