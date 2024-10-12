@@ -39,7 +39,7 @@ I have been passionate about technology since an early age and have a constant e
 
 <br>
 
-<img src="Assets/Wave.gif" style="width: 100%; height: auto;">
+<img src="Assets/Wave.gif">
 
 
 <br>
