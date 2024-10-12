@@ -17,7 +17,7 @@ I have been passionate about technology since an early age and have a constant e
    <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 </div>
 
-### Conhecimento em:
+### Knowledge in:
 <div>
   <img align="center" alt="Alysson-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Alysson-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
