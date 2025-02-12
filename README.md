@@ -9,7 +9,8 @@ I have been passionate about technology since an early age and have a constant e
 ![Profile visits](https://komarev.com/ghpvc/?username=AlyssonKe)
 
 ## 🌟 Featured Projects
-- [Game Group Website](https://github.com/AlyssonKe/Broken-Clock-SITE): My first website, created in Next.js for my Roblox game group.
+- [My Roblox Portfolio](https://duelan.dev): A portfolio showcasing my journey and all the projects I have worked on since I started in the realm of Roblox game development.
+- [My Roblox Group Website](https://broken-clock-site.vercel.app/): The website of my Roblox game group, where you can find all the group's games, blogs, contact information, and more.
 
 ## 🤝 Contributions
 - [College Bootcamp Project](https://github.com/geovanards/bootcamp): Contribution to an academic project for my bootcamp course.
